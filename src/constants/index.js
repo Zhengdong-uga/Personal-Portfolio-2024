@@ -32,6 +32,8 @@ import {
     sql,
     tableau,
     unity,
+    houseprice,
+    churn,
   } from "../assets";
   
   export const navLinks = [
@@ -311,9 +313,9 @@ import {
   
   // Archive Projects
   {
-    name: "Old Project 1",
+    name: "House Price Prediction",
     description:
-      "An older project that demonstrates early development skills.",
+      "An older project that demonstrates early data-analysis skills.",
     tags: [
       {
         name: "html",
@@ -328,14 +330,14 @@ import {
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: houseprice,
     source_code_link: "https://github.com/",
     category: "archive",
   },
   {
-    name: "Old Project 2",
+    name: "Churn Prediction",
     description:
-      "Another older project showcasing initial design and development work.",
+      "Another older project showcasing initial machine-learning work.",
     tags: [
       {
         name: "html",
@@ -350,7 +352,7 @@ import {
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: churn,
     source_code_link: "https://github.com/",
     category: "archive",
   },

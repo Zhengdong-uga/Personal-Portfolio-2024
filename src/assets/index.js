@@ -38,6 +38,8 @@ import peepers from "./company/peepers.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import houseprice from "./houseprice.png";
+import churn from "./churn.png";
 
 
 export {
@@ -78,4 +80,6 @@ export {
   sql,
   tableau,
   unity,
+  houseprice,
+  churn,
 };

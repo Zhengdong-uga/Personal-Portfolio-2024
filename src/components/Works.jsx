@@ -17,7 +17,7 @@ const ProjectCard = ({
   source_code_link,
   category,
 }) => {
-  const icon = category === "development" ? github : figma;
+  const icon = category === "development" || category === "archive" ? github : figma;
 
   return (
     <motion.div variants={fadeIn("up", "spring", index * 0.5, 0.75)}>
