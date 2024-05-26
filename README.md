@@ -17,10 +17,6 @@
 
 Welcome to my portfolio! I'm a versatile creator and developer, specializing in immersive 3D experiences. My portfolio highlights my skills in UX design, development, and 3D modeling. Explore the different sections to see how I blend innovative design and technology to bring my ideas to life. Discover a world where creativity meets precision, and every project tells a unique story.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
-
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - React.js
