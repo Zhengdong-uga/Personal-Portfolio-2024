@@ -1,0 +1,11 @@
+Model Information:
+* title:	PC Workstation
+* source:	https://sketchfab.com/3d-models/pc-workstation-0e34151b6e724d7ab8d458c623233d9d
+* author:	yankobe (https://sketchfab.com/yankobe.do)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PC Workstation" (https://sketchfab.com/3d-models/pc-workstation-0e34151b6e724d7ab8d458c623233d9d) by yankobe (https://sketchfab.com/yankobe.do) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
